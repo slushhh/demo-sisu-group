@@ -28,7 +28,7 @@ before, after and date when update was made.
 ## Technical requirements
 
 * App should be created using React and written in TypeScript.
-* **Do not use* any component library like `MUI` or CSS framework like `Boostrap`. You should
+* **Do not use** any component library like `MUI` or CSS framework like `Boostrap`. You should
 make your own reusable components what you need to create this app.
 * Use some global state solution and you can use any framework for it (jotai, redux etc).
 * Use local-storage to save all the data.
